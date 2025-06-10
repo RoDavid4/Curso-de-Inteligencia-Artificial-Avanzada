@@ -1,0 +1,24 @@
+************************************
+***********  Consigna  *************
+************************************
+
+Tienes 20 minutos para crear un breve relato de ciencia ficción distópica.
+
+Para hacerlo, redacta un prompt completo y detallado que incluya los siguientes elementos: 
+    Tarea, Contexto, Ejemplos, Rol, Formato, Tono y Audiencia. 
+Utiliza un modelo de lenguaje de tu elección para generar la historia.
+
+-> Define claramente lo que quieres que haga el modelo de lenguaje. (Tarea)
+
+-> Proporciona detalles que establezcan el escenario y la situación de la historia. (Contexto)
+
+-> Ofrece ejemplos de cómo debería ser el resultado. (Ejemplos)
+
+-> Indica desde qué perspectiva se debe escribir. (Rol o Actúa como)
+
+-> Especifica la estructura y el resultado esperado. (Formato)
+
+-> Indica el estilo o tono que tendrá el relato. (Tono)
+
+-> Menciona a quién está dirigido el relato. (Audiencia)
+

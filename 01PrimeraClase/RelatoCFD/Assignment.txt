@@ -1,0 +1,13 @@
+
+***********  Assignment  ***********
+
+You have 20 minutes to create a short dystopian science fiction story.
+To do so, write a complete and detailed prompt that includes the following elements:
+- Task: Clearly define what you want the language model to do.
+- Context: Provide details that establish the setting and situation of the story.
+- Examples: Offer examples of what the result should look like.
+- Role: Indicate the perspective from which the story should be written.
+- Format: Specify the structure and expected outcome.
+- Tone: Define the style or tone of the story.
+- Audience: Mention who the story is intended for.
+Use a language model of your choice to generate the story.
